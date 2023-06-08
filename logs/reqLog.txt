@@ -67,3 +67,16 @@
 20230607	14:19:12	fdce4294-9bcf-46af-8d73-09eea2fdc91e	OPTIONS	http://localhost:3000	/refresh
 20230607	14:19:12	a02bdcf5-5709-469f-952e-a652ca2d7036	GET	http://localhost:3000	/refresh
 20230607	14:19:12	520b8f56-f639-4db9-b066-ec6ddb5fe2f4	GET	http://localhost:3000	/employees
+20230607	14:49:10	2e8d940f-5a2d-4251-85d6-f6f2d3159161	OPTIONS	http://localhost:3000	/auth
+20230607	14:49:10	192fadcb-4cc6-4285-a910-bcac74885272	POST	http://localhost:3000	/auth
+20230607	14:49:34	e51d9177-34c6-46f2-abc0-b301e5c47577	OPTIONS	http://localhost:3000	/employees
+20230607	14:49:34	d5162a71-eec9-4dd8-962f-64a86bb31aad	GET	http://localhost:3000	/employees
+20230607	15:24:39	42c0dc52-0618-4c92-ab74-71409acec0b5	POST	http://localhost:3000	/auth
+20230607	15:24:39	db83e719-c15a-4893-b36a-b9ace597d49f	OPTIONS	http://localhost:3000	/auth
+20230607	15:25:49	311f3028-3487-44cc-84c0-95604cacf21d	POST	undefined	/
+20230607	15:26:14	f588c0b4-7dfd-4cef-a258-e7d9046a11e9	POST	undefined	/auth
+20230607	15:29:36	ad91c1a9-9016-40f0-a54c-6770c1984ea5	POST	undefined	/employees
+20230607	16:05:08	f669b765-70cd-4d93-b06d-87092d2376a1	OPTIONS	http://localhost:3000	/auth
+20230607	16:05:08	7025342c-b8f2-47ae-9eb5-c9bbe9d30899	POST	http://localhost:3000	/auth
+20230607	16:17:37	a4c61baa-7a8e-4768-9908-a511ae1df9da	OPTIONS	http://localhost:3000	/auth
+20230607	16:17:37	c3d07395-09d5-4534-bd81-c75158e0eb2d	POST	http://localhost:3000	/auth
