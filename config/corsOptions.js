@@ -14,6 +14,8 @@ const corsOptions = {
    // credentials: true, // <--- permitir el envío de cookies en las solicitudes
    //Esta opcion se configura en el middleware credentials.js. Se define como true si el origen del cual recibe la llamada esta en la whitelist
     exposedHeaders: ['*'], 
+    // <--- especificar encabezados que se pueden enviar al cliente
+    credentials: true,
 
     
 }
